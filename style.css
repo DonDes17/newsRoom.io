@@ -78,6 +78,10 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 
+.menu ul.nav li a:hover {
+  background-color: #1a77ff;
+}
+
 .main {
   background: url(https://s3.amazonaws.com/codecademy-content/projects/newsroom/bass-bg.jpg) no-repeat center;
   background-size: cover;
